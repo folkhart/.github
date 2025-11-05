@@ -54,14 +54,13 @@ An idle RPG game with crafting, dungeons, and character progression. Build your 
 
 ### Phase 2: Social Features (In Progress)
 - [x] Guild system (basic)
-- [ ] Co-op dungeons
-- [ ] Guild chat
-- [ ] Friend system
+- [x] Guild chat
+- [x] Friend system
 
 ### Phase 3: Content Expansion
-- [ ] More zones & dungeons
-- [ ] Companion system (database ready)
-- [ ] Crafting recipes
+- [x] More zones & dungeons
+- [x] Companion system (database ready)
+- [x] Crafting recipes
 - [ ] Daily quests & events
 - [ ] PvP arena
 
